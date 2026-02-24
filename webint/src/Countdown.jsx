@@ -29,7 +29,7 @@ const Countdown = () => {
 
   return (
     <div style={styles.container}>
-      <h1 style={styles.title}>🚀 Webint on the way</h1>
+      <h1 style={styles.title}>🚀 Websint on the way</h1>
 
       {timeLeft.finished ? (
         <h2>We are live 🎉</h2>
